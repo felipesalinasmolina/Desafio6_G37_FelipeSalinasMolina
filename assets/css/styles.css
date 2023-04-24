@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&display=swap");
+body{
+    margin: 0;
+    border: 0;
+    background-color: white;
+    color: white;
+    font-family:"raleway",sans-serif;
+    text-align: center;   
+
+}
+
+.header{
+    background-image: url("../img/Titulo.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 1rem;
+    margin-bottom: 3rem;
+
+}
+
+
+.header h1{
+    font-family:"raleway",sans-serif;
+    font-size:  2rem;
+    color: white;
+    text-align:center;
+}
+
+.acerca_de_mi {
+    background-color: dodgerblue;
+
+
+}
+.acerca_de_mi h1{
+    font-family:"raleway",sans-serif;
+    font-size:  2rem;
+    color: white;
+    text-align:center;
+
+}
+.acerca_de_mi h2{
+    font-family:"raleway",sans-serif;
+    font-size:  1.2rem;
+    color: white;
+    text-align:center;
+
+}
+.acerca_de_mi p{
+    font-family:"raleway",sans-serif;
+    font-size:  1rem;
+    color: white;
+    text-align:center;
+
+}
+
+.mi_trabajo h1{
+    font-family:"raleway",sans-serif;
+    font-size:  2rem;
+    color: black;
+    text-align:center;
+
+}
+
+footer{
+    background-color: #1e1a13;
+    padding: 3rem;
+    margin: auto;
+}
+
+footer h2{
+    font-size: 1rem;
+    color: white;
+    font-family:"raleway",sans-serif;
+    text-align: center;   
+}
+
